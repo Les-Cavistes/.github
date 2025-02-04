@@ -1,6 +1,6 @@
 # Les Cavistes
 
-<img src="../assets/logo.pg" alt="Our logo"/>
+<img src="../assets/logo.png" alt="Our logo"/>
 
 We are a three students team from the CNAM school in Paris. We are currently working on a project for our second semester.
 
